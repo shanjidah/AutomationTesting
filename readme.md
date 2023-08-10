@@ -7,7 +7,7 @@ Automated end-to-end tests for Automation Exercise
 - Clone or download the project.
 
 ```sh
- $ git clone https://github.com/
+ $ git clone https://github.com/shanjidah/AutomationTesting.git
 ```
 
 - Install NPM
